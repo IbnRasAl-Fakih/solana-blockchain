@@ -25,13 +25,16 @@ This is a decentralized social networking application built on the Solana blockc
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/IbnRasAl-Fakih/solana-blockchain.git
+
 cd app
+
 npm install
+
 npm start
 
-##Usage
+
+## Usage
 Connecting a Wallet
 Click the "Connect" button to connect your Phantom wallet.
 If not installed, follow the prompts to install the Phantom wallet extension.
@@ -55,6 +58,11 @@ View incoming friend requests.
 Click "Accept" or "Reject" to respond to the request.
 
 
+## Screenshots
+![image_2024-05-27_09-31-50](https://github.com/IbnRasAl-Fakih/solana-blockchain/assets/121658609/11319d1d-ceec-4803-84da-fa80a6e7a8da)
+![image_2024-05-27_09-32-20](https://github.com/IbnRasAl-Fakih/solana-blockchain/assets/121658609/ba9b30ff-741d-4c63-b4f5-c6f74dfd7d1a)
+
+##
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
