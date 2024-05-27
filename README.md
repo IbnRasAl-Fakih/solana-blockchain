@@ -26,12 +26,12 @@ This is a decentralized social networking application built on the Solana blockc
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/social-blockchain-dashboard.git
+git clone https://github.com/IbnRasAl-Fakih/solana-blockchain.git
 cd app
 npm install
 npm start
 
-Usage
+##Usage
 Connecting a Wallet
 Click the "Connect" button to connect your Phantom wallet.
 If not installed, follow the prompts to install the Phantom wallet extension.
